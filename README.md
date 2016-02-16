@@ -17,7 +17,7 @@
 definition(
 name: "Auto change to Vacation Mode",
 namespace: "",
-author: "Ashutosh Jaiswal",
+author: "Alok Takkar",
 description: "This app automatically changes mode from Away to Vacation Mode after it stays in Away mode for a period of time",
 category: "Safety & Security",
 iconUrl: "http://www.clker.com/cliparts/a/5/5/5/1315944954399165199Baggage%20Check.svg.hi.png",
